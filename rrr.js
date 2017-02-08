@@ -1,3 +1,3 @@
 import React from 'react';
 
-export default props => <div>RRR component!!!</div>;
+export default props => <div>TRAAAAA-TA_TA component!!!</div>;
