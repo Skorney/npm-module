@@ -1,3 +1,3 @@
 import React from 'react';
 
-export default props => <div>WWW compofdsfsdfd fdsfds fdsfdsnent!!!</div>;
+export default props => <div>SUPX change compofdsfsdfd fdsfds fdsfdsnent!!!</div>;
